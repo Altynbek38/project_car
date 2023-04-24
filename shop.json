@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2018,
+        "color": "silver",
+        "mileage": 50000,
+        "price": 15000
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "color": "blue",
+        "mileage": 38000,
+        "price": 17000
+    },
+    {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2020,
+        "color": "red",
+        "mileage": 10000,
+        "price": 25000
+    },
+    {
+        "id": 4,
+        "brand": "Toyota",
+        "model": "Supra",
+        "year": 2019,
+        "color": "white",
+        "mileage": 15000,
+        "price": 80000
+    },
+    {
+        "id": 5,
+        "brand": "Mazda",
+        "model": "RX-7",
+        "year": 1998,
+        "color": "yellow",
+        "mileage": 23000,
+        "price": 50000
+    },
+    {
+        "id": 6,
+        "brand": "Dodge",
+        "model": "Charger",
+        "year": 2022,
+        "color": "black",
+        "mileage": 120000,
+        "price": 75000
+    },
+    {
+        "id": 7,
+        "brand": "Nissan",
+        "model": "Silvia",
+        "year": 1998,
+        "color": "blue",
+        "mileage": 25000,
+        "price": 25000
+    },
+    {
+        "id": 8,
+        "brand": "Porsche",
+        "model": "911",
+        "year": 2022,
+        "color": "orange",
+        "mileage": 1000,
+        "price": 180000
+    }
+]

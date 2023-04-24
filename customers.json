@@ -1,0 +1,57 @@
+[
+    {
+        "email": "best@mail.com",
+        "password": "best",
+        "name": "Baha"
+    },
+    {
+        "email": "second@mail.com",
+        "password": "second",
+        "name": "Serik"
+    },
+    {
+        "email": "third@mail.com",
+        "password": "third",
+        "Name": "Talgat"
+    },
+    {
+        "name": "Altynbek",
+        "email": "altynbek4649@gmail.com",
+        "password": "1234"
+    },
+    {
+        "name": "Lega",
+        "email": "lega@mail.com",
+        "password": "1234"
+    },
+    {
+        "name": "git",
+        "email": "git@mail.com",
+        "password": "1234"
+    },
+    {
+        "name": "zip",
+        "email": "zip@mail.ru",
+        "password": "1234"
+    },
+    {
+        "name": "dog",
+        "email": "dog@mail.com",
+        "password": "1234"
+    },
+    {
+        "name": "cat",
+        "email": "cat@mail.com",
+        "password": "1234"
+    },
+    {
+        "name": "horse",
+        "email": "horse@mail.com",
+        "password": "1234"
+    },
+    {
+        "name": "sheep",
+        "email": "sheep@mail.com",
+        "password": "1234"
+    }
+]
